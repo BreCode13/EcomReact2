@@ -1,0 +1,84 @@
+.contact-form {
+    background-image: url('https://w0.peakpx.com/wallpaper/728/639/HD-wallpaper-jordan-1-black-francisco-jordan-fashion-hypebeast-nike-offwhite-red-shoes-sneakers-stockx-supreme.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    opacity: 100%;
+  }
+  
+
+.contact-form{
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    /* background-image: #f9f9f9; */
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  form label {
+    font-size: 2rem;
+    color: red;
+    margin-bottom: 10px;
+  }
+  
+  form input,
+  form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.1rem;
+  }
+  h1{
+    color: red;
+  }
+  form textarea {
+    height: 150px;
+  }
+  
+  form button[type='submit'] {
+    background-color: red;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  form button[type='submit']:hover {
+    background-color: red;
+  }
+  
+  .contact-form {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  @media screen and (max-width: 767px) {
+    .contact-form {
+      max-width: 100%;
+    }
+  }
+  
+  @media screen and (min-width: 768px) and (max-width: 991px) {
+    .contact-form {
+      max-width: 80%;
+    }
+  }
+  
+  @media screen and (min-width: 992px) {
+    .contact-form {
+      max-width: 70%;
+    }
+  }
+  

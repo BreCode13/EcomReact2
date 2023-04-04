@@ -1,0 +1,90 @@
+[
+    {
+      "id": 1,
+      "name": "Jordan",
+      "price": "120",
+      "description": "The jersey fits and feels amazing! Shopping here again for sure!",
+      "image": "./img/red11.png"
+    },
+    {
+      "id": 2,
+      "name": "New Balance Orange",
+      "price": "08-15-2022",
+      "description": "The jersey fits and feels amazing! ",
+      "image": "./img/orangepack.png"
+    },
+    {
+      "id": 3,
+      "name": "New Balance Sage",
+      "price": "01-30-2021",
+      "description": "I was able to buy a lot of jersey's here without breaking the bank!",
+      "image": "./img/sagenb.png"
+    },
+    {
+      "id": 4,
+      "name": "Off-White",
+      "price": "05-27-2020",
+      "description": "Affordable jersey's! Will order more in the near future.",
+      "image": "./img/offwhitej4.png"
+    },
+    {
+      "id": 5,
+      "name": "Jordan 11 Navy",
+      "price": "03-02-2019",
+      "description": "Jersey came as advertised, sizes are a bit tight. I'd say order a size up.",
+      "image": "./img/navy11.png"
+    },
+    {
+      "id": 6,
+      "name": "Air Jordan Olive",
+      "price": "09-18-2022",
+      "description": "Great birthday gift for my son, he truly loves it!",
+      "image": "./images/person6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Jordan 11 Maroon",
+      "price": "12-13-2020",
+      "description": "The jersey didn't fit me well but they were able to exchange it with no problem!",
+      "image": "./img/Maroon11.png"
+    },
+    {
+      "id": 8,
+      "name": "Jordan 4 Black",
+      "price": "01-30-2019",
+      "description": "The jersey I ordered came fast! Such a quick delivery process.",
+      "image": "./img/blackj4.png"
+    },
+
+    {
+        "id": 9,
+        "name": "Jordan 4 Brown",
+        "price": "01-30-2019",
+        "description": "The jersey I ordered came fast! Such a quick delivery process.",
+        "image": "./img/brownj4.png"
+      },
+
+      {
+        "id": 10,
+        "name": "Nike Dior",
+        "price": "01-30-2019",
+        "description": "The jersey I ordered came fast! Such a quick delivery process.",
+        "image": "./img/diorshoes.png"
+      },
+
+      {
+        "id": 11,
+        "name": "Air Jordan Black",
+        "price": "01-30-2019",
+        "description": "The jersey I ordered came fast! Such a quick delivery process.",
+        "image": "./img/jordans.jpeg"
+      },
+
+      {
+        "id": 12,
+        "name": "New Balance OC",
+        "price": "01-30-2019",
+        "description": "The jersey I ordered came fast! Such a quick delivery process.",
+        "image": "./img/nbtime.png"
+      }
+  ]
